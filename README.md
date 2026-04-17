@@ -123,7 +123,7 @@ Applications include:
 
 ## ⚠️ Dataset
 
-The dataset may not be included in this repository due to size constraints.
+The dataset has been included in this repository, but download may be slow due to size constraints.
 
 ---
 
